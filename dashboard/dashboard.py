@@ -107,6 +107,8 @@ max_date = df["dteday"].max()
 #-- Side bar --
 
 with st.sidebar:
+
+    # st.image("images/markus-winkler-yeaUOU4JQxg-unsplash.jpg")
     st.sidebar.header("Filter: ")
 
     start_date, end_date = st.date_input(
