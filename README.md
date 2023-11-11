@@ -1,6 +1,6 @@
 # Dashboard Analisis Data Bikesharing
 
-![Dashboard Analisis Data Bikesharing] (images/dashboard.png)
+![Dashboard Analisis Data Bikesharing](images/dashboard.png)
 
 ---
 
